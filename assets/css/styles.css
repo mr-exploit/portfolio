@@ -499,23 +499,21 @@ display : none
     width: 70%;
 }
 .skills__js{
-    width: 50%;
+    width: 60%;
 }
 .skills__react{
-    width: 45%;
+    width: 65%;
 }
-.skills__php{
-    width: 50%;
+.skills__csharp{
+    width: 75%;
 }
-.skills__node{
-    width: 30%;
+.skills__unity{
+    width: 85%;
 }
-.skills__firebase{
-    width: 30%;
+.skills__desain{
+    width: 70%;
 }
-.skills__python{
-    width: 25%;
-}
+
 
 .skills__close .skills__list{
     height: 0;
