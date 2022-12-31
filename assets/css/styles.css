@@ -496,19 +496,22 @@ display : none
     width: 90%;
 }
 .skills__css{
-    width: 70%;
-}
-.skills__js{
-    width: 60%;
-}
-.skills__react{
-    width: 65%;
-}
-.skills__csharp{
     width: 75%;
 }
-.skills__unity{
-    width: 85%;
+.skills__js{
+    width: 80%;
+}
+.skills__react{
+    width: 75%;
+}
+.skills__javascript{
+    width: 80%;
+}
+.skills__node{
+    width: 80%;
+}
+.skills__express{
+    width: 75%;
 }
 .skills__desain{
     width: 70%;
